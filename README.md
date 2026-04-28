@@ -1,4 +1,4 @@
-# Vaidya AI: The Human-Centric Ayurvedic Voice Consultant
+# VedaVoice AI: The Human-Centric Ayurvedic Voice Consultant
 
 ## 📌 Project Overview
 VedaVoice AI is a digital "Vaidya" (consultant) designed to bridge the gap between ancient Ayurvedic wisdom and modern AI accessibility. Moving beyond transactional search results, this agent uses a two-way conversational model to uncover the root of wellness concerns and provides comprehensive, explained remedies.
