@@ -30,7 +30,7 @@ Traditional wellness apps often offer generic advice that lacks the depth of per
 
 ## 🔗 Live Prototype
 Experience the AI-led Ayurvedic consultation:
-**[View Interactive Prototype on ElevenLabs](https://elevenlabs.io/app/agents/agents/agent_9001kk4c3mzqepwbphnq17q32977/preview?branchId=agtbrch_4801kk4c3pk0fqjaq6zqnyn8wmkk&include_draft=true)**
+**[View Interactive Prototype on ElevenLabs](https://elevenlabs.io/app/talk-to?agent_id=agent_9001kk4c3mzqepwbphnq17q32977&branch_id=agtbrch_4801kk4c3pk0fqjaq6zqnyn8wmkk)**
 <img width="1224" height="657" alt="image" src="https://github.com/user-attachments/assets/7a53fba9-3e0d-40f3-87c2-1a00866094da" />
 <img width="1209" height="650" alt="image" src="https://github.com/user-attachments/assets/8c6cb36b-6fd7-4802-ab08-e6ac2d12b95c" />
 
